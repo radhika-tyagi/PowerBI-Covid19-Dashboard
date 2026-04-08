@@ -12,3 +12,6 @@ This project is a Power BI dashboard that analyzes Covid-19 vaccination data. It
 🔹 File:
 - Covid-19 Vaccination Dashboard.pbix
 
+## 📊 Dashboard Preview:
+![Dashboard](Screenshot 2026-04-08 230236.png)
+
